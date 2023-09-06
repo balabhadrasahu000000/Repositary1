@@ -68,12 +68,12 @@
         }
 		
 		.step-text a {
-            color: white;
+            color: red;
 			text-decoration: none;
         }
 		
 		.step-text a:hover {
-            color: white;
+            color: red;
 			text-decoration:underline;
         }
 
